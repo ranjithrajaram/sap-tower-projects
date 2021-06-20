@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - { role: sap_hana_ha_pacemaker }
+    - { role: sap-hana-ha-pacemaker }
